@@ -2,5 +2,5 @@
 
 ```
 하루계획: yyyyMM/MMdd.md
-OS: OS/주제_n.md
+OS: OS/n_주제_m.md
 ```
