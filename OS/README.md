@@ -1,6 +1,6 @@
 ## template
 ```
-./주제_n.md
+./n_주제_m.md
 ```
 ## check chart
 |번호|주제|시간|학습날짜|체크|
