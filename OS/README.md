@@ -3,7 +3,7 @@
 ## template
 
 ```
-./n_주제_m.md
+./n_주제m.md
 ```
 
 ## check chart
